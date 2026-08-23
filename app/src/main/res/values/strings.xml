@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoSnooze</string>
+    <string name="alarm_channel_name">Ringing alarms</string>
+    <string name="alarm_channel_description">Urgent NoSnooze alarm alerts</string>
+</resources>
